@@ -1,0 +1,11 @@
+/bin
+/include
+/lib
+.DS_Store
+*.csv
+*.swp
+/shapefiles
+/old_2014_joins
+mbtarget_DRE_EDIT_1.json
+yadda.o*
+yadda.e*
